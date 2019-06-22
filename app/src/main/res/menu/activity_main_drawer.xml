@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item android:title="radian"
+                android:id="@+id/radian"/>
+            <item android:id="@+id/e"
+                android:title="e" />
+            <item android:id="@+id/pi"
+                android:title="Pi ( π )" />
+            <item android:id="@+id/sqrt"
+                android:title="Square Root ( √ )" />
+            <item android:id="@+id/sin"
+                android:title="Sin( )" />
+            <item android:id="@+id/cos"
+                android:title="Cos( )" />
+            <item android:id="@+id/tan"
+                android:title="Tan( )" />
+            <item android:id="@+id/asin"
+                android:title="ArcSin( )" />
+            <item android:id="@+id/acos"
+                android:title="ArcCos( )" />
+            <item android:id="@+id/atan"
+                android:title="ArcTan( )" />
+            <item android:id="@+id/log"
+                android:title="Log( )" />
+            <item android:id="@+id/ln"
+                android:title="Ln( )" />
+            <item android:id="@+id/fact"
+                android:title="Factorial ( ! )" />
+            <item android:id="@+id/store"
+                android:title="Store Value" />
+            <item android:id="@+id/recall"
+                android:title="Recall Value" />
+            <item android:id="@+id/dash"
+                android:title="__________"/>
+            <item android:id="@+id/rate"
+                android:title="Rate App"/>
+            <item android:id="@+id/dev"
+                android:title="Devoloper"/>
+            <item android:id="@+id/exit"
+                android:title="Exit"/>
+        </menu>
+    </item>
+
+
+</menu>
