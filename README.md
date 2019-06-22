@@ -9,6 +9,7 @@
 1. Sync Project and Install Required Dependencies
 1. Build and Run Project.
 
+![](./promo.png) 
 ## Functions Available -
 
 * Fractional number support
