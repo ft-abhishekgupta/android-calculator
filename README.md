@@ -3,10 +3,10 @@
 <a href="https://play.google.com/store/apps/details?id=com.abhishekstechlab.calculatorfx&hl=en"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a>
 
 ## To use source code : 
-1. Clone Repository <br>
+1. Clone Repository : <br>
 ```git clone https://github.com/ft-abhishekgupta/android-calculator```
-1. Open Repository in Android Studio
-1. Sync Project and Install Required Dependencies
+1. Open Repository in Android Studio.
+1. Sync Project and Install Required Dependencies.
 1. Build and Run Project.
 
 ![](./promo.png) 
